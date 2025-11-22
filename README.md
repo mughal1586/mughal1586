@@ -1,16 +1,62 @@
-## Hi there 👋
+<h1 align="center">Hi👋, I'm Muhammad Sagheer</h1>
+<h3 align="center">Cybersecurity Enthusiast | Student </h3>
 
-<!--
-**mughal1586/mughal1586** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <em>Cybersecurity student from Pakistan</em>
+</p>
 
-Here are some ideas to get you started:
+- 👨‍💻 I’m currently studying **BS Cybersecurity** at **Riphah International University**.
+- 🌱 I’m focused on learning **network security**, **ethical hacking**, **penetration testing**, and **cryptography**.
+- 💬 Ask me about **cybersecurity**, **C++**, **Linux**, and more.
+- 🚀 I’m always excited to collaborate on projects and contribute to open-source.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📞 **Connect with me**:
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/muhammad-sagheer-57845a343" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="30" width="40" />
+  </a>
+  
+  <a href="mailto:sagheerkabeer251@gmail.com" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/mail.svg" alt="Email" height="30" width="40" />
+  </a>
+</p>
+
+---
+
+### 🛠️ **Languages and Tools**:
+
+<p align="left">
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  </a>
+  
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+  </a>
+  <!-- You can add more icons here like Python, JavaScript, Kali Linux, etc. -->
+</p>
+
+---
+
+### 🔥 **GitHub Stats**:
+
+![Muhammad Sagheer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=tokyonight)
+
+<!-- Optional: Add a Wakatime or other activity widget -->
+
+---
+
+### 🧠 **What I'm currently learning**:
+
+- Cybersecurity fundamentals and penetration testing.
+- Practical application of ethical hacking tools and techniques.
+- Network security protocols and cryptography.
+
+---
+
+### 💡 **Fun Fact**:
+
+I enjoy solving cybersecurity challenges and participate in CTF (Capture The Flag) competitions to improve my skills.
