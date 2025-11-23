@@ -46,14 +46,6 @@
 
 ---
 
-### 🔥 **GitHub Stats**:
-
-![Muhammad Sagheer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=tokyonight)
-
-<!-- Optional: Add a Wakatime or other activity widget -->
-
----
-
 ### 🧠 **What I'm currently learning**:
 
 - Cybersecurity fundamentals and penetration testing.
