@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mughal1586/mughal1586/main/cover-photo-1.png" alt="Cover Photo" width="800"/>
+  <img src="https://raw.githubusercontent.com/mughal1586/mughal1586/main/cover_photo_1.png" alt="Cover Photo" width="800"/>
 </p>
 
 <h1 align="center">Hi👋, I'm Muhammad Sagheer</h1>
