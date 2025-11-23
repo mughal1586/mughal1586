@@ -23,9 +23,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="30" width="40" />
   </a>
   
-<a href="mailto:sagheerkabeer251@gmail.com">
-  <img align="center" src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/svgs/solid/envelope.svg" alt="Email" height="30" width="40" />
-</a>
+<a href="mailto:sagheerkabeer251@gmail.com">Email</a>
 
 </p>
 
