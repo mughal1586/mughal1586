@@ -25,7 +25,7 @@
 
   <a href="mailto:sagheerkabeer251@gmail.com" target="_blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" 
-    alt="Email" height="30" width="40" />
+    alt="Email" height="40" width="40" />
   </a>
   
 </p>
