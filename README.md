@@ -26,7 +26,7 @@
 I have completed multiple verified certifications in cybersecurity, Linux, and programming.
 
 📂 **View all certificates here:**  
-👉 https://github.com/YOUR-USERNAME/certificates
+👉 https://github.com/mughal1586/certificates
 
 ### 🔐 Highlights
 - Cybersecurity Essentials  
